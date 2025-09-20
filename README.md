@@ -1,78 +1,48 @@
-<!-- Header GIF -->
+# 👋 Hi, I'm Ahmed Abd Elbadie  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
+  <img src="https://img.shields.io/badge/🌟_About_Me_|_عني-black?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<h1 align="center">Hi, I'm Ahmed Abd Elbadie 👋</h1>
-<h3 align="center">Full Stack & Mobile Developer | Team Player | Open Source Enthusiast</h3>
-
----
-
-<!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+  <img src="https://img.shields.io/badge/💻_Fullstack_Developer_(FrontEnd_&_BackEnd)-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/📱_Mobile_Apps_(Flutter_&_Dart)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤝_Team_Player-006400?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 About Me | عني  
-
-```bash
-> whoami
-Ahmed Abd Elbadie
-
-> role
-Full Stack Developer | Mobile Developer (Flutter/Dart) | Team Player
-
-> skills
-Frontend, Backend, Full Stack, Flutter, Dart, Unity, Linux, Git
-
-> languages
-Arabic (Native), English (Fluent)
-
-> mission
-Build interactive apps & solve real-world problems with clean code
-```
+## 🚀 Skills & Tools
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express, Django, Flask  
+- **Mobile:** Flutter & Dart  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Other Tools:** Git, Linux, Docker  
 
 ---
 
-## 🛠 Skills & Tools  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,express,flutter,dart,python,cs,unity,linux,git,github,docker,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-## 📊 GitHub Insights  
+## 🎨 Widgets & Style Ideas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdulbadie&theme=radical&hide_border=true" height="150" />
+  <img src="https://img.shields.io/badge/Linux_Terminal_Style-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding_Mode-282C34?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Open_Source-3a3a3a?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-- 🏙 **Meta Oases** – Interactive marketplace with Unity 6  
-- 🥖 **Abu El-Kheir Distribution** – Digital bread & food distribution platform  
-- 🌐 **Web & Mobile Apps** – Full Stack solutions + Flutter/Dart apps  
+## 🌐 Connect with Me
+- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/ahmedabdulbadie](https://linkedin.com/in/ahmedabdulbadie)  
+- 🐦 Twitter: [@ahmedabdulbadie](https://twitter.com/ahmedabdulbadie)  
 
 ---
 
-## 🎨 Widgets & Style Ideas  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33FF33&background=000000&center=true&vCenter=true&width=650&lines=$+Welcome+to+Ahmed+Abd+Elbadie's+Profile;Ahmed+is+a+Full+Stack+%26+Mobile+Developer;echo+'Team+Player+%7C+Problem+Solver+%7C+Creator'" alt="Linux Terminal Typing Animation" />
-</p>
-
----
-
-## 📫 Connect With Me  
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmedabdulbadie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ahmedabdulbadie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-⭐️ From [Ahmed Abd Elbadie](https://github.com/ahmedabdulbadie)  
+⭐️ From [ahmedabdulbadie](https://github.com/ahmedabdulbadie)  
