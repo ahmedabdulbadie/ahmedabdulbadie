@@ -45,7 +45,7 @@
 
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Animation" />
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -89,4 +89,4 @@
 
 ---
 
-⭐️ From [Ahmed Abd Elbadie](https://github.com/ahmedabdulbadie)  
+⭐️ From [Ahmed Abd Elbadie](https://github.com/ahmedabdulbadie)
