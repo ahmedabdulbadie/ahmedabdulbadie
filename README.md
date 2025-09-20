@@ -16,11 +16,23 @@
 ---
 
 ## 🌟 About Me | عني  
-- 🌍 I speak **Arabic & English** fluently  
-- 👨‍💻 **Full Stack Developer** (Frontend + Backend)  
-- 📱 **Mobile Developer** with **Flutter & Dart**  
-- 🤝 Love working in **teams & collaboration**  
-- 🎯 Passionate about **clean code & modern UI/UX**  
+
+```bash
+> whoami
+Ahmed Abd Elbadie
+
+> role
+Full Stack Developer | Mobile Developer (Flutter/Dart) | Team Player
+
+> skills
+Frontend, Backend, Full Stack, Flutter, Dart, Unity, Linux, Git
+
+> languages
+Arabic (Native), English (Fluent)
+
+> mission
+Build interactive apps & solve real-world problems with clean code
+```
 
 ---
 
@@ -47,17 +59,19 @@
 ---
 
 ## 🎨 Widgets & Style Ideas  
-- ✨ Animated typing banner:  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Welcome+to+Ahmed+Abd+Elbadie's+Profile!;Full+Stack+%7C+Mobile+Developer;Team+Player+%7C+Problem+Solver" alt="Typing Animation" />
-  </p>
 
-- 🎨 Colored badges for contact:  
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/ahmedabdulbadie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/ahmedabdulbadie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33FF33&background=000000&center=true&vCenter=true&width=650&lines=$+Welcome+to+Ahmed+Abd+Elbadie's+Profile;Ahmed+is+a+Full+Stack+%26+Mobile+Developer;echo+'Team+Player+%7C+Problem+Solver+%7C+Creator'" alt="Linux Terminal Typing Animation" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmedabdulbadie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/ahmedabdulbadie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ---
 
