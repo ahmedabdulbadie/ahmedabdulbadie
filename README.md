@@ -17,13 +17,31 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      
+
 ## 🌟 About Me | عني  
-- 🌍 I speak **Arabic & English** fluently  
-- 👨‍💻 **Full Stack Developer** (Frontend + Backend)  
-- 📱 **Mobile Developer** with **Flutter & Dart**  
-- 🤝 Love working in **teams & collaboration**  
-- 🎯 Passionate about **clean code & modern UI/UX**  
+
+<table>
+  <tr>
+    <td>🌍</td>
+    <td>I speak <b>Arabic & English</b> fluently</td>
+  </tr>
+  <tr>
+    <td>👨‍💻</td>
+    <td><b>Full Stack Developer</b> (Frontend + Backend)</td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td><b>Mobile Developer</b> with Flutter & Dart</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td>Love working in <b>teams & collaboration</b></td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td>Passionate about <b>clean code & modern UI/UX</b></td>
+  </tr>
+</table>
 
     </td>
     <td width="40%" align="center">
