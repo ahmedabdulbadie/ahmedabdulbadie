@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
 </p>
 
-<h1 align="center">Hi, I'm Ahmed Abd Elbadie 👋</h1>
+<h1 align="center">Hello World 🌍 | I'm Ahmed Abd Elbadie 👋</h1>
 <h3 align="center">Full Stack & Mobile Developer | Team Player | Open Source Enthusiast</h3>
 
 ---
@@ -11,9 +11,11 @@
 <!-- About Me + Coding GIF side by side -->
 <table>
   <tr>
-    <td width="60%">
+    <!-- Info Section -->
+    <td width="60%" valign="top">
       
-## 🌟 About Me | عني  
+<h2>🌟 About Me | عني</h2>
+
 - 🌍 I speak **Arabic & English** fluently  
 - 👨‍💻 **Full Stack Developer** (Frontend + Backend)  
 - 📱 **Mobile Developer** with **Flutter & Dart**  
@@ -21,8 +23,12 @@
 - 🎯 Passionate about **clean code & modern UI/UX**  
 
     </td>
-    <td width="40%" align="right" style="padding-right:20px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
+
+    <!-- GIF Section -->
+    <td width="40%" align="center" style="padding-right:20px;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+           width="280" alt="Coding Animation" 
+           style="border-radius:15px; box-shadow:0 0 15px #3DDC84;" />
     </td>
   </tr>
 </table>
