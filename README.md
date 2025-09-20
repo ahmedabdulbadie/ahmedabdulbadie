@@ -8,19 +8,24 @@
 
 ---
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
-</p>
-
----
-
+<!-- About Me + Coding GIF side by side -->
+<table>
+  <tr>
+    <td width="60%">
+      
 ## 🌟 About Me | عني  
 - 🌍 I speak **Arabic & English** fluently  
 - 👨‍💻 **Full Stack Developer** (Frontend + Backend)  
 - 📱 **Mobile Developer** with **Flutter & Dart**  
 - 🤝 Love working in **teams & collaboration**  
 - 🎯 Passionate about **clean code & modern UI/UX**  
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
