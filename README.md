@@ -21,7 +21,7 @@
 - 🎯 Passionate about **clean code & modern UI/UX**  
 
     </td>
-    <td width="40%" align="center">
+    <td width="40%" align="right" style="padding-right:20px;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
     </td>
   </tr>
