@@ -1,54 +1,74 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedabdulbadie/ahmedabdulbadie/main/assets/banner.png" alt="Profile Banner" width="100%">
-  <h1>Hello, I'm Ahmed Eid! 👋</h1>
-</div>
+## Hey 👋, I'm Ahmed Eid!
+<a href='https://www.linkedin.com/in/ahmed-eid/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 
----
 
-### 👨‍💻 About Me
+I am a **Full Stack Developer 🌐**, **Flutter Developer 📱**, and **Game Developer 🎮 (Unity)**.  
+I also have experience in **Linux systems 🐧** and building scalable solutions for businesses.  
+I’m passionate about creating interactive apps, games, and platforms that blend the digital and real worlds 🌍.  
+<br/>
+<br/>
 
-I am a **Full Stack Developer 🌐**, **Flutter Developer 📱**, and **Game Developer 🎮 (Unity)**.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-I’m passionate about creating interactive apps, games, and platforms that blend the digital and real worlds 🌍. I also have experience in **Linux systems** and building scalable solutions for businesses.
+- 🔭 &nbsp; I’m currently working on **Meta Oases (Interactive Oasis City Project)**  
+- 🥖 &nbsp; Founder of **Abu El-Kheir** (Food & Bread Distribution Company)  
+- 🌱 &nbsp; I’m currently learning **advanced Unity features & Dart/Flutter**  
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/)  
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help  
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ahmed-eid/)  
+- 📚 &nbsp; When I am free, I love exploring new technologies and reading about startups  
 
 <br>
 
----
+### 🔨 Languages and Tools:
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></a>
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></a>
+<a href="https://unity.com/" target="_blank"><img align="left" alt="Unity" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-### 🚀 My Focus
+<br>
 
-* **Projects:** I'm currently working on **Meta Oases (Interactive Oasis City Project)**.
-* **Learning:** I’m currently learning **advanced Unity features & Dart/Flutter**.
-* **Interests:** When I'm free, I love exploring new technologies and reading about startups.
-* **Availability:** Ask me about anything tech related, I'm happy to help.
 
----
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-### 🛠️ Languages & Tools
+</a>
 
+<br>
+
+### 🏆 Github Trophies
 <div align="center">
-  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedabdulbadie&theme=radical&no-frame=true" alt="Ahmed's Trophies" />
 </div>
 
----
+<br>
 
-### 📊 GitHub Stats
-
+### 📈 Daily Coding Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdulbadie&theme=radical&hide_border=true" alt="Ahmed's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/dashboard.svg" alt="Wakatime Badge" />
 </div>
 
+<br>
+
+### 🛠️ My Projects
+**Coming Soon...**
+
 ---
 
-### 🔗 Let's Connect
+### 📬 Get In Touch
 
 <div align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
