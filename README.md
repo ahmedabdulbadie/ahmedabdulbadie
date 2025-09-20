@@ -34,8 +34,8 @@ My current focus is on **Game Development** and **Interactive Applications**, wh
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" alt="Your GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=**YourGitHubUsername**&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=**YourGitHubUsername**&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
