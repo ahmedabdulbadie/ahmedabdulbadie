@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+World!;0101010101010101;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</p>
+
+---
+
 # 👋 Hi, I'm Ahmed Abd Elbadie  
 
 <p align="center">
@@ -5,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Fullstack_Developer_(FrontEnd_&_BackEnd)-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/📱_Mobile_Apps_(Flutter_&_Dart)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/👨‍💻_Fullstack_Developer_(FrontEnd_&_BackEnd)-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/💻_Mobile_Apps_(Flutter_&_Dart)-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/🤝_Team_Player-006400?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
