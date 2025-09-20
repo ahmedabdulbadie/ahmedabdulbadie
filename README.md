@@ -1,29 +1,41 @@
-# 👋 Hi, I'm Ahmed Abd Elbadie  
-
-Welcome to my GitHub profile!  
-I’m passionate about **software development, open-source projects, and continuous learning**.  
-
----
-
-## 🚀 About Me
-- 💻 I enjoy working with **Linux, Python, and Unity**  
-- 🌱 Currently learning and building projects in **game development & interactive applications**  
-- 🛠️ I like solving problems and experimenting with new technologies  
-- 📍 Based in Egypt  
+<div align="center">
+  <h1>Hey there, I'm Ahmed! 👋</h1>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=radical)  
+### About Me
+
+I'm a passionate **Software Developer** from Egypt, with a strong focus on open-source projects and a love for continuous learning. I thrive on turning creative ideas into functional applications and am always eager to solve new challenges.
 
 ---
 
-## 🌐 Connect with Me
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/ahmedabdulbadie](https://linkedin.com/in/ahmedabdulbadie)  
-- 🐦 Twitter: [@ahmedabdulbadie](https://twitter.com/ahmedabdulbadie)  
+### 🛠️ My Toolbox
+
+Here are some of the technologies I enjoy working with:
+
+* **Languages:** Python, Dart, SQL
+* **Web:** HTML, CSS
+* **Mobile:** Flutter
+* **Game Development:** Unity
+* **Operating Systems:** Linux
 
 ---
 
-⭐️ From [ahmedabdulbadie](https://github.com/ahmedabdulbadie)  
+### 🌱 What I'm Currently Focused On
+
+I'm currently diving deep into the world of **Game Development** and **Interactive Applications**, building new projects and expanding my skills.
+
+---
+
+### 🚀 What I Bring to the Table
+
+* **Problem-Solving:** I enjoy tackling complex problems and finding efficient solutions.
+* **Innovation:** I'm always experimenting with new technologies and finding creative ways to use them.
+* **Collaboration:** I love working with other developers on exciting projects.
+
+---
+
+<div align="center">
+  <p>Let's build something amazing together!</p>
+</div>
