@@ -1,39 +1,39 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Your GitHub Avatar" width="150" style="border-radius: 50%;">
-  <h1>أهلاً بك، أنا أحمد! 👋</h1>
-</div>
+# Ahmed Abd Elbadie  
+
+### Software Developer | Game Development Enthusiast | Open Source Advocate  
 
 ---
 
-### 🚀 نبذة عني
+## 👨‍💻 About Me  
+I am a passionate **software developer** with a strong focus on **Linux systems, Unity game development, and open-source technologies**.  
+I believe in continuous learning, solving real-world problems with technology, and building innovative solutions that make an impact.  
 
-أنا مطور برمجيات من مصر، متخصص في تطوير التطبيقات القوية وسهلة الاستخدام. شغفي هو التعلم المستمر والمساهمة في مشاريع مفتوحة المصدر، وأستمتع بتحويل الأفكار إلى واقع ملموس.
-
-### 🛠️ مهاراتي التقنية
-
--   **لغات البرمجة:** Python, Dart, JavaScript
--   **تطوير الويب:** HTML, CSS,
--   **تطوير التطبيقات:** Flutter
--   **قواعد البيانات:** SQL
--   **أدوات أخرى:** Linux, Unity, Git
+- 💡 Interested in **interactive applications & game development**  
+- ⚡ Experienced in **Python, C#, and Unity Engine**  
+- 🛠 Skilled in **Linux administration and customization**  
+- 🌍 Based in Egypt  
 
 ---
 
-### 💡 ما أعمل عليه حاليًا
+## 🏗 Featured Projects  
+- **Meta Oases** – An interactive marketplace/game hybrid built with Unity 6  
+- **Abu El-Kheir Distribution** – Digital solutions for food & bread distribution  
+- **Open Source Contributions** – Active participation in collaborative coding projects  
 
-أركز حاليًا على **تطوير الألعاب والتطبيقات التفاعلية**، وأقوم بتجربة تقنيات جديدة بشكل مستمر.
+---
+
+## 📊 GitHub Insights  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
-### 🤝 تواصل معي
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</div>
+## 📫 Contact Me  
+- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/ahmedabdulbadie](https://linkedin.com/in/ahmedabdulbadie)  
+- 🐦 Twitter: [@ahmedabdulbadie](https://twitter.com/ahmedabdulbadie)  
+- 🌐 Portfolio: [your-website.com](https://your-website.com)  
 
 ---
+
+⭐️ Maintained with passion by [Ahmed Abd Elbadie](https://github.com/ahmedabdulbadie)  
