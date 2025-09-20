@@ -50,7 +50,4 @@ I’m passionate about creating interactive apps, games, and platforms that blen
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/ahmed-eid/meta-oases" target="_blank"> <img alt="metaoases" src="./projects/oasis.svg" height="68" align="left"> </a>
-<a href="https://github.com/ahmed-eid/abu-el-kheir" target="_blank"> <img alt="abuelkheir" src="./projects/bread.svg" height="68" align="left"> </a>
-<a href="https://github.com/ahmed-eid/flutter-apps" target="_blank"> <img alt="flutterapps" src="./projects/flutter.svg"  height="68" align="left"> </a>
-<a href="https://github.com/ahmed-eid/unity-games" target="_blank"> <img alt="unitygames" src="./projects/unity.svg" height="68" align="left"> </a>
+**Coming Soon...**
