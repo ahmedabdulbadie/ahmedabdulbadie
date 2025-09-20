@@ -1,92 +1,50 @@
-<!-- Header GIF + Hello World Matrix -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
-</p>
+## Hey 👋, I'm Ahmed Abd Elbadie!
+<a href='https://linkedin.com/in/ahmedabdulbadie'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/ahmedabdulbadie'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='mailto:your-email@example.com'><img alt="gmail" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-<h1 align="center">Hello World 🌍</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="600" alt="Matrix Binary Animation" />
-</p>
+<br/>
 
-<h1 align="center">Hi, I'm Ahmed Abd Elbadie 👋</h1>
-<h3 align="center">Full Stack & Mobile Developer | Team Player | Open Source Enthusiast</h3>
+I am a **Full Stack & Mobile Developer** 🌐📱 passionate about building **interactive apps, modern UI/UX, and scalable backends**.  
+I enjoy working with **Flutter, Dart, Node.js, React, Unity, and Linux** while constantly learning new technologies.  
 
----
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-<!-- About Me + Coding GIF side by side -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
+- 🔭 &nbsp; Currently working on **Meta Oases (Unity 6 Interactive Marketplace)**  
+- 🥖 &nbsp; Founder of **Abu El-Kheir Distribution** – Bread & food delivery platform  
+- 🌱 &nbsp; Learning advanced **Unity & AR/VR**  
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ahmedabdulbadie)  
+- 💬 &nbsp; Ask me about **Flutter, Dart, Node.js, or Unity**  
+- 📫 &nbsp; Reach me on [LinkedIn](https://linkedin.com/in/ahmedabdulbadie)  
+- 📚 &nbsp; Interested in technology, startups, and gaming development  
 
-## 🌟 About Me | عني  
+<br>
 
-<table>
-  <tr>
-    <td>🌍</td>
-    <td>I speak <b>Arabic & English</b> fluently</td>
-  </tr>
-  <tr>
-    <td>👨‍💻</td>
-    <td><b>Full Stack Developer</b> (Frontend + Backend)</td>
-  </tr>
-  <tr>
-    <td>📱</td>
-    <td><b>Mobile Developer</b> with Flutter & Dart</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td>Love working in <b>teams & collaboration</b></td>
-  </tr>
-  <tr>
-    <td>🎯</td>
-    <td>Passionate about <b>clean code & modern UI/UX</b></td>
-  </tr>
-</table>
+### 🔨 Languages and Tools:
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height="42px" src="https://skillicons.dev/icons?i=flutter"></a>
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height="42px" src="https://skillicons.dev/icons?i=dart"></a>
+<a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.js" height="42px" src="https://skillicons.dev/icons?i=nodejs"></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://skillicons.dev/icons?i=react"></a>
+<a href="https://unity.com/" target="_blank"><img align="left" alt="Unity" height="42px" src="https://skillicons.dev/icons?i=unity"></a>
+<a href="https://python.org/" target="_blank"><img align="left" alt="Python" height="42px" src="https://skillicons.dev/icons?i=python"></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://skillicons.dev/icons?i=git"></a>
+<a href="https://linux.org/" target="_blank"><img align="left" alt="Linux" height="42px" src="https://skillicons.dev/icons?i=linux"></a>
 
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<br>
 
----
+### 📊 Github Stats
+<a href="https://github.com/ahmedabdulbadie">
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=radical&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=radical&hide_border=true)
 
-## 🛠 Skills & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,express,flutter,dart,python,cs,unity,linux,git,github,docker,vscode" />
-</p>
+</a>
 
----
+<br>
 
-## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedabdulbadie&theme=radical&hide_border=true" height="150" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-- 🏙 **Meta Oases** – Interactive marketplace with Unity 6  
-- 🥖 **Abu El-Kheir Distribution** – Digital bread & food distribution platform  
-- 🌐 **Web & Mobile Apps** – Full Stack solutions + Flutter/Dart apps  
-
----
-
-## 🎨 Widgets & Style Ideas  
-- ✨ Animated typing banner:  
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Welcome+to+Ahmed+Abd+Elbadie's+Profile!;Full+Stack+%7C+Mobile+Developer;Team+Player+%7C+Problem+Solver" alt="Typing Animation" />
-  </p>
-
-- 🎨 Colored badges for contact:  
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/ahmedabdulbadie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/ahmedabdulbadie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  </p>
-
----
-
-⭐️ From [Ahmed Abd Elbadie](https://github.com/ahmedabdulbadie)
+### 🛠️ My Projects
+- 🏙 [**Meta Oases**](https://github.com/ahmedabdulbadie/meta-oases) – Unity 6 interactive commercial oasis  
+- 🥖 [**Abu El-Kheir Distribution**](https://github.com/ahmedabdulbadie/abu-el-kheir) – Bread & food distribution system  
+- 🌐 [**Full Stack Web & Mobile Apps**](https://github.com/ahmedabdulbadie) – Flutter, Dart, Node.js projects
