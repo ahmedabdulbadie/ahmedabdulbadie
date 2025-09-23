@@ -29,7 +29,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png"  />
+
+###
 
 <img align="left" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
@@ -87,13 +89,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmedabdulbadie&locale=en&mode=daily&theme=flag-india&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://streak-stats.demolab.com?user=ahmedabdulbadie&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
