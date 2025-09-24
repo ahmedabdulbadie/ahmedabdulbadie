@@ -73,11 +73,19 @@
 <div align="center">
 
   <!-- Dark Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=dark#gh-dark-mode-only" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=dark#gh-dark-mode-only" height="200"/>
+  <a href="https://github.com/ahmedabdulbadie#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=dark#gh-dark-mode-only" height="200"/>
+  </a>
+  <a href="https://github.com/ahmedabdulbadie#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=dark#gh-dark-mode-only" height="200"/>
+  </a>
 
   <!-- Light Mode -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=default#gh-light-mode-only" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=default#gh-light-mode-only" height="200"/>
+  <a href="https://github.com/ahmedabdulbadie#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&theme=default#gh-light-mode-only" height="200"/>
+  </a>
+  <a href="https://github.com/ahmedabdulbadie#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&theme=default#gh-light-mode-only" height="200"/>
+  </a>
 
 </div>
