@@ -80,16 +80,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
 </div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
+<h3 align="center">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=flag-india&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmedabdulbadie&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
+  <img src="https://raw.githubusercontent.com/ahmedabdulbadie/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="200"/>
+  <img src="https://raw.githubusercontent.com/ahmedabdulbadie/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="200"/>
+
+  <img src="https://raw.githubusercontent.com/ahmedabdulbadie/github-stats/master/generated/overview.svg#gh-light-mode-only" height="200"/>
+  <img src="https://raw.githubusercontent.com/ahmedabdulbadie/github-stats/master/generated/languages.svg#gh-light-mode-only" height="200"/>
+
+</div>
