@@ -56,12 +56,13 @@
 
 ---
 
-## 🔥 GitHub Stats (Neon Glass)
+## 🔥 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&hide_border=true&bg_color=00000000&title_color=00e0ff&text_color=ffffff&icon_color=b400ff&rank_icon=github" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&hide_border=false&theme=tokyonight&rank_icon=github" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&hide_border=true&bg_color=00000000&title_color=ff0072&text_color=ffffff" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&hide_border=false&theme=tokyonight" height="150" />
 
 </div>
 
