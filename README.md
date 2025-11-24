@@ -1,103 +1,52 @@
-<!-- ============================
-     NEON PROFESSIONAL README
-     GitHub-safe, clean, fully working
-   ============================ -->
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
 
 <div align="center">
-
-<!-- Inline SVG banner (neon gradient) -->
-<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Ahmed Eid - Neon Banner">
-  <defs>
-    <linearGradient id="neonGrad" x1="0" x2="1">
-      <stop offset="0" stop-color="#00e0ff" />
-      <stop offset="0.5" stop-color="#b400ff" />
-      <stop offset="1" stop-color="#ff0072" />
-    </linearGradient>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect x="6" y="6" rx="12" ry="12" width="1188" height="128" fill="#071018" opacity="0.95"/>
-  <text x="50%" y="54" text-anchor="middle" font-family="Inter, Roboto, 'Segoe UI', Helvetica, Arial" font-size="36" fill="url(#neonGrad)" filter="url(#softGlow)" font-weight="700">AHMED EID</text>
-  <text x="50%" y="88" text-anchor="middle" font-family="Inter, Roboto, Arial" font-size="14" fill="#98a0ff" opacity="0.95">
-    Software Developer • DevOps & Cloud • Game Dev (Unity)
-  </text>
-  <rect x="48" y="110" width="1104" height="2" rx="1" fill="url(#neonGrad)" opacity="0.85"/>
-  <rect x="60" y="112" width="1080" height="1" rx="1" fill="#0b1220" opacity="0.6"/>
-</svg>
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-<br />
-
-<!-- Social badges -->
-<div align="center">
-  <a href="https://linkedin.com/in/ahmed-eid"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ahmed--eid-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img alt="Email" src="https://img.shields.io/badge/Email-your%40email.com-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/ahmedabdulbadie"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ahmedabdulbadie-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://ahmedabdulbadie.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-7B61FF?style=for-the-badge&logo=google-chrome"/></a>
-</div>
-
----
-
-## 👋 About Me
-- 🔧 Building clean systems, scalable infra, and playable experiences.  
-- ☁️ Focus: DevOps, Cloud (AWS), CI/CD, Docker, Unity prototypes.  
-- 🌱 Currently: TypeScript, AWS, Docker, Shader Design  
-- 📍 Based in Cairo, Egypt
-
----
-
-## 🛠 Tech Stack (Quick)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,html,css,cpp,cs,dotnet,aws,docker,unity,linux,postgres" alt="tech-icons" />
-</div>
-
----
-
-## 🔥 GitHub Stats
+###
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedabdulbadie&show_icons=true&hide_border=false&theme=tokyonight&rank_icon=github" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdulbadie&layout=compact&hide_border=false&theme=tokyonight" height="150" />
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
+###
 
-## 📈 Activity (Neon Style)
 <div align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedabdulbadie&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## 🚀 Featured Projects
-### • **Meta Oases**  
-Interactive commerce oasis — Unity + real delivery integration.  
-**Tech:** Unity, C#, Networking — _Live repo:_ https://github.com/ahmedabdulbadie
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-### • **CI/CD Templates**  
-Reusable templates for Docker microservices and GitHub Actions.  
-**Tech:** Docker, GitHub Actions, Terraform
-
----
-
-## 🏆 Achievements & Badges
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedabdulbadie&theme=gruvbox&no-frame=true" alt="trophies" />
-</div>
-
----
-
-## 📫 Contact
-- Email: **YOUR_EMAIL_HERE**  
-- LinkedIn: https://linkedin.com/in/ahmed-eid  
-- Portfolio: https://ahmedabdulbadie.github.io
-
-<p align="center">
-  <sub>Made with ✨ neon vibes — clean, modern, GitHub-safe, and highly professional.</sub>
-</p>
+###
